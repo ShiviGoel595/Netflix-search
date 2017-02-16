@@ -1,0 +1,12 @@
+Here search title, director , actor 
+**********************************************************88
+Enter values in two fileds -- 
+
+it will show values acc to INPUT field1 AND INPUT field2 . (it will show OR results)
+so if any of the value is true. it will show result.
+**************************************************************************************
+
+API IS VERY SLOW . HIT ENTER BUTTON 5-6 TIMES
+************************************************************************************
+i have completed the task.
+THANKYOU.
